@@ -1,10 +1,10 @@
 [{
-  id: 1,
-  name : "select",
-  value: "default"
+  "id": 1,
+  "name" : "select",
+  "value": "default"
  },
 {
-  id: 2,
-  name : "select",
-  value: "default"
+  "id": 2,
+  "name" : "select",
+  "value": "default"
 }]
