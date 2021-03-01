@@ -1,41 +1,41 @@
 {
     "permissions": [
-        {   "id": 1,
+        {   "id": "1",
             "scopes": [
                 "GET"
             ],
             "rsid": "722bd6e7-009d-4da8-a93d-a7d354e7e53f",
             "rsname": "imsiCreate"
         },
-        {   "id" : 2,
+        {   "id" : "2",
             "scopes": [
                 "GET"
             ],
             "rsid": "f2abc978-e8aa-44a8-8406-d79227511829",
             "rsname": "imsiView"
         },
-        {   "id": 3,
+        {   "id": "3",
             "scopes": [
                 "GET"
             ],
             "rsid": "722bd6e7-009d-4da8-a93d-a7d354e7e53f",
             "rsname": "imsiDetailedView"
         },
-        {   "id": 4,
+        {   "id": "4",
             "scopes": [
                 "GET"
             ],
             "rsid": "722bd6e7-009d-4da8-a93d-a7d354e7e53f",
             "rsname": "ImsiEdit"
         },
-        {   "id": 5,
+        {   "id": "5",
             "scopes": [
                 "GET"
             ],
             "rsid": "722bd6e7-009d-4da8-a93d-a7d354e7e53f",
             "rsname": "ImsiDelete"
         },
-        {   "id": 6,
+        {   "id": "6",
             "scopes": [
                 "GET"
             ],
