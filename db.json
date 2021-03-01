@@ -1,32 +1,51 @@
 {
     "permissions": [
-        {
+        {   "id" : 1,
             "scopes": [
                 "GET"
             ],
             "rsid": "722bd6e7-009d-4da8-a93d-a7d354e7e53f",
-            "rsname": "root"
+            "rsname": "imsiSearch"
         },
-        {
+        {   
+            "id" : 2,
             "scopes": [
                 "GET"
             ],
             "rsid": "f2abc978-e8aa-44a8-8406-d79227511829",
-            "rsname": "index"
+            "rsname": "imsiCreate"
         },
-        {
+        {   
+            "id" : 3,
             "scopes": [
                 "GET"
             ],
             "rsid": "722bd6e7-009d-4da8-a93d-a7d354e7e53f",
-            "rsname": "root"
+            "rsname": "imsiView"
         },
-        {
+        {   
+            "id" : 4,
             "scopes": [
                 "GET"
             ],
             "rsid": "722bd6e7-009d-4da8-a93d-a7d354e7e53f",
-            "rsname": "root"
+            "rsname": "imsiDetailedView"
+        },
+         {   
+            "id" : 5,
+            "scopes": [
+                "GET"
+            ],
+            "rsid": "722bd6e7-009d-4da8-a93d-a7d354e7e53f",
+            "rsname": "ImsiEdit"
+        },
+         {   
+            "id" : 6,
+            "scopes": [
+                "GET"
+            ],
+            "rsid": "722bd6e7-009d-4da8-a93d-a7d354e7e53f",
+            "rsname": "ImsiDelete"
         }
     ]
 }
