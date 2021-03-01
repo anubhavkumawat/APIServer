@@ -1,9 +1,9 @@
 {
     "permissions": [
         {   "id": "1",
-            "scopes": [
+            "scopes": "[
                 "GET"
-            ],
+            ]",
             "rsid": "722bd6e7-009d-4da8-a93d-a7d354e7e53f",
             "rsname": "imsiCreate"
         },
